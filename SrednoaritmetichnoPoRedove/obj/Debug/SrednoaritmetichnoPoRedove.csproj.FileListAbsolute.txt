@@ -1,0 +1,8 @@
+E:\Programming\MnogomerniMasivi\SrednoaritmetichnoPoRedove\bin\Debug\SrednoaritmetichnoPoRedove.exe.config
+E:\Programming\MnogomerniMasivi\SrednoaritmetichnoPoRedove\bin\Debug\SrednoaritmetichnoPoRedove.exe
+E:\Programming\MnogomerniMasivi\SrednoaritmetichnoPoRedove\bin\Debug\SrednoaritmetichnoPoRedove.pdb
+E:\Programming\MnogomerniMasivi\SrednoaritmetichnoPoRedove\obj\Debug\SrednoaritmetichnoPoRedove.csproj.AssemblyReference.cache
+E:\Programming\MnogomerniMasivi\SrednoaritmetichnoPoRedove\obj\Debug\SrednoaritmetichnoPoRedove.csproj.SuggestedBindingRedirects.cache
+E:\Programming\MnogomerniMasivi\SrednoaritmetichnoPoRedove\obj\Debug\SrednoaritmetichnoPoRedove.csproj.CoreCompileInputs.cache
+E:\Programming\MnogomerniMasivi\SrednoaritmetichnoPoRedove\obj\Debug\SrednoaritmetichnoPoRedove.exe
+E:\Programming\MnogomerniMasivi\SrednoaritmetichnoPoRedove\obj\Debug\SrednoaritmetichnoPoRedove.pdb

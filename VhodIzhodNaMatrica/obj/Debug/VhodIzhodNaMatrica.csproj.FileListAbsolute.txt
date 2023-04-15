@@ -1,0 +1,8 @@
+E:\Programming\MnogomerniMasivi\VhodIzhodNaMatrica\bin\Debug\VhodIzhodNaMatrica.exe.config
+E:\Programming\MnogomerniMasivi\VhodIzhodNaMatrica\bin\Debug\VhodIzhodNaMatrica.exe
+E:\Programming\MnogomerniMasivi\VhodIzhodNaMatrica\bin\Debug\VhodIzhodNaMatrica.pdb
+E:\Programming\MnogomerniMasivi\VhodIzhodNaMatrica\obj\Debug\VhodIzhodNaMatrica.csproj.AssemblyReference.cache
+E:\Programming\MnogomerniMasivi\VhodIzhodNaMatrica\obj\Debug\VhodIzhodNaMatrica.csproj.SuggestedBindingRedirects.cache
+E:\Programming\MnogomerniMasivi\VhodIzhodNaMatrica\obj\Debug\VhodIzhodNaMatrica.csproj.CoreCompileInputs.cache
+E:\Programming\MnogomerniMasivi\VhodIzhodNaMatrica\obj\Debug\VhodIzhodNaMatrica.exe
+E:\Programming\MnogomerniMasivi\VhodIzhodNaMatrica\obj\Debug\VhodIzhodNaMatrica.pdb

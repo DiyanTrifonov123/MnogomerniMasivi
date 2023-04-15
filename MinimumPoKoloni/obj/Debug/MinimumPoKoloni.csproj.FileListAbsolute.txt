@@ -1,0 +1,8 @@
+E:\Programming\MnogomerniMasivi\MinimumPoKoloni\bin\Debug\MinimumPoKoloni.exe.config
+E:\Programming\MnogomerniMasivi\MinimumPoKoloni\bin\Debug\MinimumPoKoloni.exe
+E:\Programming\MnogomerniMasivi\MinimumPoKoloni\bin\Debug\MinimumPoKoloni.pdb
+E:\Programming\MnogomerniMasivi\MinimumPoKoloni\obj\Debug\MinimumPoKoloni.csproj.AssemblyReference.cache
+E:\Programming\MnogomerniMasivi\MinimumPoKoloni\obj\Debug\MinimumPoKoloni.csproj.SuggestedBindingRedirects.cache
+E:\Programming\MnogomerniMasivi\MinimumPoKoloni\obj\Debug\MinimumPoKoloni.csproj.CoreCompileInputs.cache
+E:\Programming\MnogomerniMasivi\MinimumPoKoloni\obj\Debug\MinimumPoKoloni.exe
+E:\Programming\MnogomerniMasivi\MinimumPoKoloni\obj\Debug\MinimumPoKoloni.pdb
